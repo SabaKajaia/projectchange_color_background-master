@@ -10,3 +10,7 @@ const colors = ['red', 'green', 'blue', 'yellow', 'pink', 'purple']
     let colorAleatorio = colores[indice]; // color aleatorio seleccionado del array
     document.body.style.backgroundColor = colorAleatorio; // cambiar el color de fondo del body
   }
+
+ // function miFuncion() {
+ //   document.body.style.backgroundColor = "yellow";
+//  }. 
