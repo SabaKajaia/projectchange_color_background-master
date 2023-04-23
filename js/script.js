@@ -13,4 +13,4 @@ const colors = ['red', 'green', 'blue', 'yellow', 'pink', 'purple']
 
  // function miFuncion() {
  //   document.body.style.backgroundColor = "yellow";
-//  }. 
+//  }
